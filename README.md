@@ -4,7 +4,10 @@ The ML@B Deep Learning Reading Group is organized by[ William Guss](http://www.w
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">{DAY/TIME TBD}. {PLACE TBD}.</span>
 
-<span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline; line-height: 1.2em;">(If you're presenting, please coordinate with Gianna (gianna [at] berkeley [dot] edu) to confirm the order for pastries at least 24 hours in advance, and please pick them up from Brewed Awakening after 10:30am - it's a catering order for Gianna - and bring them to the meeting.)</span>
+
+<span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline; line-height: 1.2em;">The following are scheduled meetings the following semester and a list of suggested topics. If you plan on presenting (highly encouraged) please select a paper from the list and email wguss [at] berkeley [dot] edu or submit a pull request and add to the table!</span>
+
+<span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline; line-height: 1.2em;">(Prior to presenting, please coordinate with Gianna (gianna [at] berkeley [dot] edu) to confirm the order for pastries at least 24 hours in advance, and please pick them up from Brewed Awakening after 10:30am - it's a catering order for Gianna - and bring them to the meeting.)</span>
 
 <table border="0" style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: &quot;Segoe UI&quot;, &quot;Lucida Grande&quot;, Arial; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px; color: rgb(68, 68, 68); line-height: 19.5px; width: 1039px;">
 
