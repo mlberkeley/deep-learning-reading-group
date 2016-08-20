@@ -1,10 +1,10 @@
 
 # <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">ML@B Deep Learning Reading Group (Fall 2016)</span> 
-The ML@B Deep Learning Reading Group is organized by[ William Guss](wguss.ml) and [Professor {TBD sponsoring professor}](url.com) in aims to educate and inform its members in the state of the art in deep learning. The group meets two hours a week at <TBD> in {TBD} and is currently limited to {TBD num members} members. The following schedule and suggested readings are open to public, as we hope to act as an aggregator of deep learning research for the UC Berkeley community.
+The ML@B Deep Learning Reading Group is organized by[ William Guss](http://www.wguss.ml) and [Professor {TBD sponsoring professor}](url.com) in aims to educate and inform its members in the state of the art in deep learning. The group meets two hours a week at <TBD> in {TBD} and is currently limited to {TBD num members} members. The following schedule and suggested readings are open to public, as we hope to act as an aggregator of deep learning research for the UC Berkeley community.
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">{DAY/TIME TBD}. {PLACE TBD}.</span>
 
-<span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline; line-height: 1.2em;">(If you're presenting, please coordinate with Gianna (gianna@berkeley.edu) to confirm the order for pastries at least 24 hours in advance, and please pick them up from Brewed Awakening after 10:30am - it's a catering order for Gianna - and bring them to the meeting.)</span>
+<span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline; line-height: 1.2em;">(If you're presenting, please coordinate with Gianna (gianna [at] berkeley [dot] edu) to confirm the order for pastries at least 24 hours in advance, and please pick them up from Brewed Awakening after 10:30am - it's a catering order for Gianna - and bring them to the meeting.)</span>
 
 <table border="0" style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: &quot;Segoe UI&quot;, &quot;Lucida Grande&quot;, Arial; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px; color: rgb(68, 68, 68); line-height: 19.5px; width: 1039px;">
 
