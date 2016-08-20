@@ -1,10 +1,8 @@
-<div id=":1nd" class="Am Al editable LW-avf va_ar" hidefocus="true" aria-label="Message Body" g_editable="true" role="textbox" contenteditable="true" tabindex="1" style="direction: ltr; min-height: 40px;">
 
-# <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Peter Bartlett's Reading Group</span>
+# <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">ML@B Deep Learning Reading Group (Fall 2016)</span> 
+The ML@B Deep Learning Reading Group is organized by[ William Guss](wguss.ml) and [Professor {TBD sponsoring professor}](url.com) in aims to educate and inform its members in the state of the art in deep learning. The group meets two hours a week at <TBD> in {TBD} and is currently limited to {TBD num members} members. The following schedule and suggested readings are open to public, as we hope to act as an aggregator of deep learning research for the UC Berkeley community.
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Spring 2016.</span>
-
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Wednesdays 11:00am-1:00pm. 606 Soda Hall.</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">{DAY/TIME TBD}. {PLACE TBD}.</span>
 
 <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline; line-height: 1.2em;">(If you're presenting, please coordinate with Gianna (gianna@berkeley.edu) to confirm the order for pastries at least 24 hours in advance, and please pick them up from Brewed Awakening after 10:30am - it's a catering order for Gianna - and bring them to the meeting.)</span>
 
@@ -304,4 +302,3 @@ On a Natural Dynamics for Linear Programming. <span style="margin: 0px; padding
 
 <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; line-height: 1.2em;">Cortical prediction markets. D. Balduzzi. 13th International Conference on Autonomous Agents and Multiagent Systems (AAMAS).[https://dl.dropboxusercontent.com/u/5874168/nmarkets.pdf](https://dl.dropboxusercontent.com/u/5874168/nmarkets.pdf)</span>
 
-</div>
